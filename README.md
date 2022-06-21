@@ -8,7 +8,7 @@
 darkman007/darkman007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Design and Development]([https://img.freepik.com/free-vector/programming-code-icon-abstract-robot-holding-programming-code-symbol-hand-coding-background_127544-1269.jpg](https://p4.wallpaperbetter.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg))
+![Design and Development](https://p4.wallpaperbetter.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg)
 
 # Adrian Twarog
 I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
